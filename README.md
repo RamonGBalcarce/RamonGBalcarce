@@ -6,6 +6,6 @@
 
 -🌱 Constantemente estoy aprendiendo nuevas tecnologias 🤣.
 
--👯 Me gusta colaborar en proyectos y/o hacer de mentor para quien lo necesite.
+-👯 Me gusta colaborar en proyectos.
 
 -⚡ Fun fact: Me encantan los Deportes!
