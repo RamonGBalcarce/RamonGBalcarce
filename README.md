@@ -1,8 +1,8 @@
 ### Hi there! Welcome! 👋
 
--🎓 Estudiante Actualmente en Digital House.
+-🎓 Estudiante Actualmente
 
--🔭 Actualmente trabajo como Desarrollador Fullstack en Angular y NodeJS!.
+-🔭 Actualmente trabajo como Desarrollador Fullstack en React y NodeJS!.
 
 -🌱 Constantemente estoy aprendiendo nuevas tecnologias 🤣.
 
