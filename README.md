@@ -1,8 +1,8 @@
-### Hi there! Welcome! 👋
+### Holaa! Bienvenidoos! 👋
 
 -🎓 Estudiante Actualmente
 
--🔭 Actualmente trabajo como Desarrollador Fullstack en React y NodeJS!.
+-🔭 Actualmente trabajo como Desarrollador Fullstack!.
 
 -🌱 Constantemente estoy aprendiendo nuevas tecnologias 🤣.
 
